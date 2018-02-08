@@ -170,13 +170,13 @@ nav {
   text-align: center;
 }
 
-.menu_item >li {
+.menu_item > li {
   display: inline-block;
   font-size: 15px;
   margin-right: 44px;
 }
 
-.menu_item >li:hover {
+.menu_item > li:hover {
   color: #00bc9c;
   cursor: pointer;
 }
@@ -253,7 +253,7 @@ nav {
   width: 100%
 }
 
-.main_guide_content  >li {
+.main_guide_content > li {
   display: inline-block;
   margin-right: 10px;
 }
